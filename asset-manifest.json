@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uaeState-calculator/static/css/main.ca67ef22.css",
+    "main.js": "/uaeState-calculator/static/js/main.c89eac66.js",
+    "index.html": "/uaeState-calculator/index.html",
+    "main.ca67ef22.css.map": "/uaeState-calculator/static/css/main.ca67ef22.css.map",
+    "main.c89eac66.js.map": "/uaeState-calculator/static/js/main.c89eac66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca67ef22.css",
+    "static/js/main.c89eac66.js"
+  ]
+}
